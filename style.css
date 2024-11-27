@@ -1,0 +1,90 @@
+/* Giữ nguyên các phần CSS trước đó */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, #6e8efb, #a777e3);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    width: 90%;
+    max-width: 500px;
+    padding: 20px;
+    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.1);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+}
+
+.player h1 {
+    margin-bottom: 20px;
+    font-size: 1.8rem;
+}
+
+.controls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.control-btn {
+    background: #ffffff;
+    color: #6e8efb;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 50%;
+    padding: 10px 15px;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 0 10px;
+    transition: transform 0.2s, background-color 0.3s;
+}
+
+.control-btn:hover {
+    background: #f1f1f1;
+    transform: scale(1.1);
+}
+
+audio {
+    width: 100%;
+    border-radius: 10px;
+    margin-top: 10px;
+    background: rgba(255, 255, 255, 0.8);
+}
+
+/* Danh sách nhạc */
+#playlist {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0 0;
+    max-height: 200px;
+    overflow-y: auto;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.1);
+}
+
+#playlist li {
+    padding: 10px;
+    margin: 5px 0;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+#playlist li:hover {
+    background: rgba(255, 255, 255, 0.5);
+    transform: translateX(5px);
+}
+
+#playlist li.active {
+    background: rgba(255, 255, 255, 0.8);
+    color: #6e8efb;
+    font-weight: 600;
+}
