@@ -1,6 +1,6 @@
     // Danh sách các bài hát
 const songs = [
-    "Bầu trời mới - Dalab",
+    "Bầu trời mới - Dalab"
     "Forget me now - fishy & Trí Dũng"
 
 ];
