@@ -1,7 +1,7 @@
     // Danh sách các bài hát
 const songs = [
     "bau-troi-moi.mp3",
-    "forget-met-now.mp3"
+    "forget-me-now.mp3"
 
 ];
 
