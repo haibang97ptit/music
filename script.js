@@ -1,7 +1,7 @@
     // Danh sách các bài hát
 const songs = [
-    "Bầu trời mới - Dalab"
-    "Forget me now - fishy & Trí Dũng"
+    "bau-troi-moi.mp3",
+    "forget-met-now.mp3"
 
 ];
 
