@@ -3,7 +3,10 @@ const songs = [
     "bau-troi-moi.mp3",
     "forget-me-now.mp3",
     "mua-thang-sau.mp3",
-    "nhu-a-da-tim-thay-e.mp3"
+    "nhu-a-da-tim-thay-e.mp3",
+    "tuyet-yeu-thuong.mp3",
+    "im-lang.mp3",
+    "keo-bong-gon.mp3"
 
 ];
 
