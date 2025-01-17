@@ -5,7 +5,6 @@ const songs = [
     "mong-chieu-xuan.mp3",
     "mot-nam-binh-an.mp3",
     "muoi-ngon-tay-tinh-yeu.mp3",
-    "nhac-tet.mp3",
     "nhu-hoa-mua-xuan.mp3"
 
 ];
