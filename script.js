@@ -1,11 +1,11 @@
     // Danh sách các bài hát
 const songs = [
-    "di-giua-troi-ruc-ro.mp3",
-    "doan-xuan-ca.mp3",
-    "mong-chieu-xuan.mp3",
-    "mot-nam-binh-an.mp3",
-    "muoi-ngon-tay-tinh-yeu.mp3",
-    "nhu-hoa-mua-xuan.mp3"
+    "keo-bong-gon.mp3",
+    "forget-me-now.mp3",
+    "im-lang.mp3",
+    "mua-thang-sau.mp3",
+    "nhu-a-da-tim-thay-e.mp3",
+    "tuyet-yeu-thuong.mp3"
 
 ];
 
