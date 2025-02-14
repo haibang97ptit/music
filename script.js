@@ -1,5 +1,6 @@
     // Danh sách các bài hát
 const songs = [
+    "luu-luyen-sau-chia-tay.mp3",
     "keo-bong-gon.mp3",
     "forget-me-now.mp3",
     "im-lang.mp3",
