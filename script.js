@@ -1,5 +1,8 @@
     // Danh sách các bài hát
 const songs = [
+    "thap-drill-tu-do.mp3",
+    "hoa-chua-tan.mp3",
+    "em-muon-tu-do.mp3",
     "3107.mp3",
     "luu-luyen-sau-chia-tay.mp3",
     "mat-ket-noi.mp3",
