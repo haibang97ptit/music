@@ -13,13 +13,7 @@ const songs = [
     "ke-theo-duoi-anh-sang.mp3",
     "luu-luyen-sau-chia-tay.mp3",
     "nhu-a-da-tim-thay-e.mp3",
-    "mat-ket-noi.mp3",
-    "keo-bong-gon.mp3",
-    "forget-me-now.mp3",
-    "im-lang.mp3",
-    "mua-thang-sau.mp3",
-    "tuyet-yeu-thuong.mp3"
-
+    "forget-me-now.mp3"
 ];
 
 const musicFolder = "list/";
