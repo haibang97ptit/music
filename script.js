@@ -4,6 +4,7 @@ const songs = [
     "thap-drill-tu-do.mp3",
     "thap-roi-tu-do.mp3",
     "cuoi-cung-thi.mp3",
+    "dong-phai-mo-dang-ai.mp3",
     "mai-mai-khong-phai-anh.mp3",
     "nang-co-mang-em-ve.mp3",
     "thuong-em-la-dieu-anh-ko-the-ngo.mp3",
