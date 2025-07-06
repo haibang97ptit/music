@@ -1,8 +1,12 @@
     // Danh sách các bài hát
 const songs = [
-    "thap-drill-tu-do.mp3",
+    "nang.mp3",
     "thap-drill-tu-do.mp3",
     "thap-roi-tu-do.mp3",
+    "say-yes.mp3",
+    "wrong-time.mp3",
+    "anh-la-ai.mp3",
+    "sau-con-mua.mp3",
     "cuoi-cung-thi.mp3",
     "dong-phai-mo-dang-ai.mp3",
     "mai-mai-khong-phai-anh.mp3",
@@ -13,8 +17,7 @@ const songs = [
     "no-nhau-1-loi.mp3",
     "ke-theo-duoi-anh-sang.mp3",
     "luu-luyen-sau-chia-tay.mp3",
-    "nhu-a-da-tim-thay-e.mp3",
-    "forget-me-now.mp3"
+    "nhu-a-da-tim-thay-e.mp3"
 ];
 
 const musicFolder = "list/";
